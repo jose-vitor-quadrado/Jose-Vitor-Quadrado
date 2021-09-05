@@ -6,6 +6,8 @@
     <a href = "mailto:josevitorquadrado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
+
 <div>
     <a = href="https://github.com/Jose-Vitor-Quadrado">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose-Vitor-Quadrado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
