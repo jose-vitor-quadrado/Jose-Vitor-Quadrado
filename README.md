@@ -3,12 +3,12 @@
 - 👾 I’m currently learning C#, Python
 ##
 
-<div><br>
+<div align="center"><br>
     <a = href="https://github.com/Jose-Vitor-Quadrado">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose-Vitor-Quadrado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Vitor-Quadrado&layout=compact&langs_count=7&theme=radical"/>
 </div> 
-<div stylr="display: inline_block"><br>
+<div style="display: inline_block"><br>
     <img align="center" alt="Jvq-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="Jvq-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="Jvq-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
