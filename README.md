@@ -1,6 +1,6 @@
 ## Hi there 👋😎
 
-- 👾 I’m currently learning SQL
+- 👾 I’m currently learning MySQL
 ##
 
 <div>
