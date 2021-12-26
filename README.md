@@ -1,6 +1,6 @@
 ## Hi there 👋😎
 
-- 👾 I’m currently learning Linux
+- 👾 I’m currently learning HTML, CSS and Javascript
 ##
 
 <div>
