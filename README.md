@@ -1,6 +1,6 @@
 ## Hi there 👋😎
 
-- 👾 I’m currently learning HTML, CSS and Javascript
+- 👾 I’m currently learning NodeJS
 ##
 
 <div>
