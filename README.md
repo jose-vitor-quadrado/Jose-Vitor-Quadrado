@@ -1,6 +1,6 @@
 ## Hi there 👋😎
 
-- 👾 I’m currently learning NodeJS and ReactJS
+- 👾 I’m currently learning ReactJS
 ##
 
 <div>
