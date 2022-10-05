@@ -1,10 +1,7 @@
 ## Hi there 👋😎
 
-<div>
-    <a = href="https://github.com/jose-vitor-quadrado">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vitor-quadrado&layout=compact&langs_count=7&theme=github_dark"/>
-    
-</div> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vitor-quadrado&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Jvq-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="Jvq-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
